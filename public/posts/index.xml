@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on YV Page</title>
+    <link>https://eth0.pp.ua/posts/</link>
+    <description>Recent content in Posts on YV Page</description>
+    <image>
+      <url>https://eth0.pp.ua/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://eth0.pp.ua/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://eth0.pp.ua/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://eth0.pp.ua/posts/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eth0.pp.ua/posts/cv/</guid>
+      <description>Yevhenii Vasiutenko 🇺🇦 System administrator at Controlpay B.V., Lisbon Email / LinkedIn / GitHub
+Skills Summary Experience with Digital Ocean / Microsoft Azure and Office 365 • Completed courses without certification - Azure Administrator • 20410D: Installing and Configuring Windows Ser 2012 • 6425C: Configuring and Troubleshooting Win Serv 2008 ADD Services • ICND1 • PowerShell scripting • English – pre intermediate
+👨‍💻 Experience 🏢 Office 365 System Administrator ControlPay (FEB 2021 - Present) In my last position, I was responsible for the implementation of Microsoft Office 365 from scratch.</description>
+    </item>
+    
+  </channel>
+</rss>
