@@ -1,7 +1,9 @@
 baseURL: "https://eth0.pp.ua/"
 title: YV Page
-paginate: 5
 theme: PaperMod
+
+pagination:
+  pagerSize: 5
 
 enableRobotsTXT: true
 buildDrafts: false
