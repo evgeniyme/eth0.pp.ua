@@ -73,11 +73,12 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Click on twi, in, git, telegram
+    Content: Click on in, git, telegram
+
+  footer:
+    text: "Hosted on [GitHub Pages](https://github.com/evgeniyme/eth0.pp.ua)"
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/the_geka"
     - name: linkedin
       url: "https://www.linkedin.com/in/yevhenii-vasiutenko-503566202"
     - name: github
