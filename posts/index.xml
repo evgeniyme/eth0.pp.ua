@@ -11,7 +11,20 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://eth0.pp.ua/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://eth0.pp.ua/posts/cv/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://eth0.pp.ua/posts/cv/</guid>
+      <description>&lt;h1 id=&#34;yevhenii-vasiutenko-&#34;&gt;Yevhenii Vasiutenko 🇺🇦&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;DevOps at Transporeon, a Trimble Company, Lisbon, Portugal&lt;/em&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;mailto:thegeka@gmail.com&#34;&gt;Email&lt;/a&gt; / &lt;a href=&#34;https://www.linkedin.com/in/yevhenii-vasiutenko&#34;&gt;LinkedIn&lt;/a&gt; / &lt;a href=&#34;https://github.com/Evgeniyme&#34;&gt;GitHub&lt;/a&gt; / &lt;a href=&#34;https://eth0.pp.ua&#34;&gt;eth0.pp.ua&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;📞 +351 910 166 635 / +380 67 656 7344&lt;/p&gt;
+&lt;h2 id=&#34;skills-summary&#34;&gt;Skills Summary&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Office 365, Exchange Online, SharePoint Online, Teams • MS Azure, Digital Ocean, AWS, GCP • Linux (Debian, Ubuntu, CentOS), Windows Server, Windows 10/12, macOS, Proxmox • Hyper-V, Active Directory Services, DNS, DHCP • Spam Assassin • PowerShell, some experience in Python • UI/UX&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title></title>
       <link>https://eth0.pp.ua/posts/blabla/</link>
@@ -20,19 +33,6 @@
       <description>&lt;p&gt;#Test page for Jankins Testing
 🇺🇦
 I have to write something here&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://eth0.pp.ua/posts/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://eth0.pp.ua/posts/cv/</guid>
-      <description>&lt;h1 id=&#34;yevhenii-vasiutenko-&#34;&gt;Yevhenii Vasiutenko 🇺🇦&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;System administrator at Controlpay B.V., Lisbon&lt;/em&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;mailto:thegeka@gmail.com&#34;&gt;Email&lt;/a&gt; / &lt;a href=&#34;https://www.linkedin.com/in/yevhenii-vasiutenko&#34;&gt;LinkedIn&lt;/a&gt; / &lt;a href=&#34;https://github.com/Evgeniyme&#34;&gt;GitHub&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;skills-summary&#34;&gt;Skills Summary&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Experience with Digital Ocean / Microsoft Azure and Office 365 • Completed courses without certification - Azure Administrator • 20410D: Installing and Configuring Windows Ser 2012 • 6425C: Configuring and Troubleshooting Win Serv 2008 ADD Services • ICND1 • PowerShell scripting • English – pre intermediate&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;-experience&#34;&gt;👨‍💻 Experience&lt;/h2&gt;
-&lt;p&gt;🏢 &lt;strong&gt;Office 365 System Administrator&lt;/strong&gt; &lt;a href=&#34;https://controlpay.com&#34;&gt;ControlPay&lt;/a&gt; &lt;em&gt;(FEB 2021 - Present)&lt;/em&gt; &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>

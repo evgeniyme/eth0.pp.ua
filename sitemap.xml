@@ -2,18 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://eth0.pp.ua/posts/blabla/</loc>
-  </url><url>
     <loc>https://eth0.pp.ua/posts/cv/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eth0.pp.ua/posts/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eth0.pp.ua/</loc>
+    <lastmod>2026-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eth0.pp.ua/posts/blabla/</loc>
   </url><url>
     <loc>https://eth0.pp.ua/posts/notpage/</loc>
   </url><url>
     <loc>https://eth0.pp.ua/categories/</loc>
   </url><url>
-    <loc>https://eth0.pp.ua/posts/</loc>
-  </url><url>
     <loc>https://eth0.pp.ua/tags/</loc>
-  </url><url>
-    <loc>https://eth0.pp.ua/</loc>
   </url>
 </urlset>
