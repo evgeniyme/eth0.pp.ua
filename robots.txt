@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://eth0.pp.ua/sitemap.xml
