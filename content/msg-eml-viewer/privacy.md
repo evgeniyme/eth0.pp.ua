@@ -2,6 +2,8 @@
 title: "MSG & EML Email Viewer — Privacy Policy"
 date: 2026-07-02
 url: "/msg-eml-viewer/privacy/"
+build:
+  list: never
 showtoc: true
 tocopen: true
 ShowReadingTime: false
