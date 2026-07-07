@@ -11,24 +11,8 @@
     </image>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://eth0.pp.ua/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>MSG &amp; EML Email Viewer — Privacy Policy</title>
-      <link>https://eth0.pp.ua/msg-eml-viewer/privacy/</link>
-      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
-      <guid>https://eth0.pp.ua/msg-eml-viewer/privacy/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Last updated: 2 July 2026&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; — Everything happens locally in your browser. The extension does
-&lt;strong&gt;not&lt;/strong&gt; collect, transmit, sell, or share any data. No analytics, no tracking,
-no servers operated by the developer.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&#34;what-the-extension-does&#34;&gt;What the extension does&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;MSG &amp;amp; EML Email Viewer&lt;/strong&gt; intercepts &lt;code&gt;.msg&lt;/code&gt; and &lt;code&gt;.eml&lt;/code&gt; email file downloads
-from sites you configure and opens them in a built-in viewer instead of saving
-them to disk. To do this, it:&lt;/p&gt;</description>
-    </item>
     <item>
       <title>CV</title>
       <link>https://eth0.pp.ua/posts/cv/</link>
